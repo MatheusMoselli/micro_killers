@@ -610,7 +610,7 @@ section {
   padding: 10px 20px;
   font-size: 12px;
   line-height: 20px;
-  color: #777;
+  color: #F8F8FF;
   border-radius: 4px;
   text-transform: uppercase;
   background: white;
@@ -620,7 +620,7 @@ section {
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   background: #70b9b0;
-  color: #fff;
+  color: #F8F8FF;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -655,19 +655,23 @@ section {
 }
 
 .portfolio .portfolio-item .portfolio-info h3 a {
-  color: #fff;
+  color: #F8F8FF;
   font-weight: bold;
 }
 
 .portfolio .portfolio-item .portfolio-info a i {
-  color: #fff;
+  color: #F8F8FF;
   font-size: 24px;
   transition: 0.3s;
   margin: 4px;
 }
 
 .portfolio .portfolio-item .portfolio-info a i:hover {
-  color: #70b9b0;
+  color: #F8F8FF;
+}
+
+.portfolio .portfolio-item .portfolio-info p {
+  color: #F8F8FF;
 }
 
 .portfolio .portfolio-item:hover img {
