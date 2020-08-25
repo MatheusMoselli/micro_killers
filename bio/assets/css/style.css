@@ -1072,3 +1072,22 @@ background-color: #46B78C;
 padding-top: 40px;
 
 }
+
+.btnInformacoes {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 15px auto;
+}
+
+#dadosCuriosidades {
+  color: white;
+}
+
+.botoes {
+  text-align: center;
+}
+
+.cardsBacterias {
+  margin: auto;
+}
